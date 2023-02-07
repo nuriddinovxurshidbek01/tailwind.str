@@ -1,0 +1,24 @@
+{
+    "name": "webdevaloper",
+    "version": "1.0.0",
+    "description": "tailwind",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "(https://github.com/nuriddinovxurshidbek01/webdevaloper.git)"
+    },
+    "keywords": [
+        "css",
+        "tailwind"
+    ],
+    "author": "Nuriddinov Xurshidbek",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^10.4.13",
+        "postcss": "^8.4.21",
+        "tailwindcss": "^3.2.4"
+    }
+}
